@@ -2,7 +2,7 @@
 
 #This script checks your directory /etc/passwd and prints Username and UID within a range given
 
-while IFS=':' read -r user passwd uid gid  
+while IFS=':' read user passwd uid gid  
 do
 	if [ $uid -ge $1 ] && [ $uid -le $2 ] 
     then
