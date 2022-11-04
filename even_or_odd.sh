@@ -1,4 +1,7 @@
 #!/bin/bash 
+
+#This script will prints the even or odd lines from 1 or more files.
+
 COUNT=0
 rest=0
 even=-1
