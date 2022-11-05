@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#This script checks your directory /etc/passwd and prints Username and UID within a range given
+#This script checks your directory /etc/passwd and prints Username and UID within a given range
 
 while IFS=':' read user passwd uid gid  
 do
