@@ -12,7 +12,7 @@ They provide small, focused command-line utilities implemented in Bash.
 
 - **dir_diff.sh** – Compares two directories and prints the files that exist in one directory but not in the other.
 
-- **even_or_odd.sh** – Checks whether a given number is even or odd.
+- **even_or_odd.sh** – Extracts and prints even or odd numbered lines from one or more text files.
 
 - **interleave_files.sh** – Prints multiple files line by line (first line of all files, then second line, and so on) until the longest file is exhausted.
 
